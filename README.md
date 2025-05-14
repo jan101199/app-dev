@@ -58,11 +58,17 @@ URL after deployment:
 app-dev-peach.vercel.app
 
 ________________________________________
-Group Responsibilities ==
+Group Responsibilities
+
 Member	Task Assignment
+
+
 Dev 1	Setup, Github and VS Code
+
 Dev 2	Fetch API integration
+
 Dev 3	UI design with Tailwind
+
 Dev 4	Post/comment rendering and filtering
 ________________________________________
 
