@@ -40,7 +40,7 @@ export default function LoginPage() {
       };
       localStorage.setItem('user', JSON.stringify(adminUser));
       setTimeout(() => {
-        router.push('/post');
+        router.push('/posts');
       }, 100);
       return;
     }
