@@ -63,12 +63,12 @@ Group Responsibilities
 Member	Task Assignment
 
 
-Dev 1	Setup, Github and VS Code
+Mariane Vhonn Cielo Calacday - Setup, Github and VS Code
 
-Dev 2	Fetch API integration
+Steven Jan Estremera - Fetch API integration
 
-Dev 3	UI design with Tailwind
+Mark Lester Jazo - UI design with Tailwind
 
-Dev 4	Post/comment rendering and filtering
+Angelo Alvarez - Post/comment rendering and filtering
 ________________________________________
 
