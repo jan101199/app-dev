@@ -63,11 +63,11 @@ Group Responsibilities
 Member	Task Assignment
 
 
-Mariane Vhonn Cielo Calacday - Setup, Github and VS Code
+Mariane Vhonn Cielo Calacday - Setup, Github, VS Code, edit video presentation and voice over
 
 Steven Jan Estremera - Fetch API integration
 
-Mark Lester Jazo - UI design with Tailwind
+Mark Lester Jazo - UI design with Tailwind and voice over
 
 Angelo Alvarez - Post/comment rendering and filtering
 ________________________________________
